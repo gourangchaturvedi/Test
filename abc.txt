@@ -1,3 +1,1 @@
-tesing the changes
-Again testing
-Testing 3rd time
+The complete change of the file contents.
